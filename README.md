@@ -26,4 +26,4 @@ This Jupyter Notebook project focuses on extracting and analyzing historical sto
 1. Clone the repository to your local machine.
 2. Open the Jupyter Notebook file and run each cell to extract, clean, and visualize the data.
 3. Explore the interactive graphs within the notebook to gain insights into the historical performance of Apple and Gamestop.
-   * Note that the plotly graphs will not display in the GitHub preview of the Jupyter notebook, they will only display if you download and run the file. See "AppleGraphs" and "GameStopGraphs" files for an image of the graphs rendered from the notebook.
+   * Note that the plotly graphs in Part 7 and 8 will not display in the GitHub preview of the Jupyter notebook, they will only display if you download and run the file. See "AppleGraphs" and "GameStopGraphs" files for an image of the graphs rendered from the notebook.
